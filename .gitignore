@@ -1,0 +1,12 @@
+# Enviroment
+.env
+
+# Database
+db.sqlite3
+
+# vscode config
+.vscode
+
+__pycache__/
+*.py[cod]
+*$py.class
