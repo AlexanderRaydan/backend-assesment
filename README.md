@@ -14,7 +14,7 @@
 **Load data**
 - ./commands.sh -c loaddata
 
-**Load data**
+**reset env ( clear data )**
 - ./commands.sh -c reset-env
 
 **run server**
